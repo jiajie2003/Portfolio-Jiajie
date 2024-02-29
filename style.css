@@ -45,6 +45,7 @@ div[class$="slide"]{
     justify-content: center;
     align-items: center;
     width: 100%;
+    margin-top: 10px !important;
 }
 
 .container-fluid {
@@ -119,4 +120,8 @@ div[class$="slide"]{
 .about-me {
     justify-content: center;
     text-align: center;
+}
+
+.col-md-9.text {
+    padding-right: 50px;
 }
